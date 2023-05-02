@@ -1,0 +1,36 @@
+# negative for Cristiano Ronaldo = 39835
+# neutral for Cristiano Ronaldo = 222460
+# positive for Cristiano Ronaldo = 118196
+
+# negative for Erling Haaland = 13518
+# neutral for Erling Haaland = 98897
+# positive for Erling Haaland = 32380
+
+# negative for Kevin De Bruyne = 62937
+# neutral for Kevin De Bruyne = 201073
+# positive for Kevin De Bruyne = 82198
+
+# negative for Kylian Mbappé = 61275
+# neutral for Kylian Mbappé = 228919
+# positive for Kylian Mbappé = 87474
+
+# negative for Lionel Messi = 59110
+# neutral for Lionel Messi = 194105
+# positive for Lionel Messi = 127585
+
+# negative for Neymar = 70500
+# neutral for Neymar = 226198
+# positive for Neymar = 84028
+
+# negative for Sadio Mané = 35403
+# neutral for Sadio Mané = 127996
+# positive for Sadio Mané = 61904
+
+# negative for Virgil van Dijk = 20057
+# neutral for Virgil van Dijk = 79122
+# positive for Virgil van Dijk = 40662
+
+# negative for Robert Lewandowski = 9282
+# neutral for Robert Lewandowski = 70889
+# positive for Robert Lewandowski = 31292
+

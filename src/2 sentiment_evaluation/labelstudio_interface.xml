@@ -1,0 +1,15 @@
+<View>
+  
+  <Header name="player" value="$player_name"/>
+  <HyperText name="link" clickableLinks="true" inline="true" value="$url"/>
+  <View style="box-shadow: 2px 2px 5px #999;                padding: 20px; margin-top: 2em;                border-radius: 5px;">
+    <Header value="Choose tweet sentiment"/>
+    <Choices name="sentiment" toName="link" choice="single" showInLine="true">
+      <Choice value="Positive"/>
+      <Choice value="Negative"/>
+      <Choice value="Neutral"/>
+      <Choice value="Other"/>
+    </Choices>
+    <TextArea required="false" name="comment" toName="link" showSubmitButton="true" maxSubmissions="1" editable="true"/>
+  </View>
+</View>
